@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Evaluacion2</string>
+    <string name="titulo">Listado de Productos</string>
+    <string name="agregar">Agregar</string>
+    <string name="crear">Crear</string>
+    <string name="volver">Volver</string>
+    <string name="existe">El producto ya existe en la lista</string>
+    <string name="error">Debe escribir nombre del producto</string>
+    <string name="mensaje0">Ingrese producto</string>
+    <string name="mensaje1">No hay productos que mostrar</string>
+    <string name="mensaje2">El producto ha sido registrado</string>
+</resources>
